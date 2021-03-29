@@ -1,0 +1,6 @@
+[0409/224219.270:ERROR:process_info.cc(359)] UncheckedAllocate
+[0409/224219.278:ERROR:process_info.cc(359)] UncheckedAllocate
+[0409/224320.765:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\NAM BUI\AppData\Local\Google\Chrome\User Data\Crashpad\reports\38442b63-f096-4cec-92aa-a4ea198d7ace.dmp: The process cannot access the file because it is being used by another process. (0x20)
+[0418/182712.308:ERROR:process_info.cc(359)] UncheckedAllocate
+[0418/182726.483:ERROR:process_info.cc(359)] UncheckedAllocate
+[0418/184106.539:ERROR:process_info.cc(359)] UncheckedAllocate
